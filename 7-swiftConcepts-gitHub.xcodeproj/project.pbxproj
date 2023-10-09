@@ -11,6 +11,7 @@
 		64A7DF602AD2E76B00371A0F /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64A7DF5F2AD2E76B00371A0F /* ContentView.swift */; };
 		64A7DF622AD2E76D00371A0F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 64A7DF612AD2E76D00371A0F /* Assets.xcassets */; };
 		64A7DF662AD2E76D00371A0F /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 64A7DF652AD2E76D00371A0F /* Preview Assets.xcassets */; };
+		64A7DF6D2AD397C100371A0F /* MyModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64A7DF6C2AD397C100371A0F /* MyModel.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		64A7DF612AD2E76D00371A0F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		64A7DF632AD2E76D00371A0F /* __swiftConcepts_gitHub.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = __swiftConcepts_gitHub.entitlements; sourceTree = "<group>"; };
 		64A7DF652AD2E76D00371A0F /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		64A7DF6C2AD397C100371A0F /* MyModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyModel.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 			children = (
 				64A7DF5D2AD2E76B00371A0F /* __swiftConcepts_gitHubApp.swift */,
 				64A7DF5F2AD2E76B00371A0F /* ContentView.swift */,
+				64A7DF6C2AD397C100371A0F /* MyModel.swift */,
 				64A7DF612AD2E76D00371A0F /* Assets.xcassets */,
 				64A7DF632AD2E76D00371A0F /* __swiftConcepts_gitHub.entitlements */,
 				64A7DF642AD2E76D00371A0F /* Preview Content */,
@@ -140,6 +143,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				64A7DF602AD2E76B00371A0F /* ContentView.swift in Sources */,
+				64A7DF6D2AD397C100371A0F /* MyModel.swift in Sources */,
 				64A7DF5E2AD2E76B00371A0F /* __swiftConcepts_gitHubApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
