@@ -10,11 +10,13 @@ import SwiftUI
 
 struct ContentView: View {
     var body: some View {
-        VStack {
+        VStack(alignment: .leading, spacing: 10) {
             Text("GitHub Essentials!")
                 .font(.title)
             
-            Text("Branching")
+            Text("1. Branching")
+            
+            Text("2. Team Environment")
         }
         .padding()
     }
